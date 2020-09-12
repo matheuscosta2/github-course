@@ -1,3 +1,5 @@
 Git Course
 
-ESte é um repositório teste para aprender com git funciona
+Este é um repositório teste para aprender com git funciona.
+
+Saiba mais em [matheus costa]
