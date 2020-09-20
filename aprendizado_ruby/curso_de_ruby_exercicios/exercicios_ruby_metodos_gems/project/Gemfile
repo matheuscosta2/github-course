@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'os'
+gem 'rake'
+gem 'paperclip'
+gem ''
