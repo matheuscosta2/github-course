@@ -1,4 +1,4 @@
-first_lambda = -> (names) { names.each { |name |puts naem} }
+first_lambda = -> (names) { names.each { |name |puts name} }
 
 names = ["João", "Maria", "Pedro"]
 
